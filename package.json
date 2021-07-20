@@ -1,7 +1,7 @@
 {
-    "name": "j4ckdevtheme",
-    "displayName": "J4ckDevTheme",
-    "description": "Theme with the colors that I like to keep my eyes fine.",
+    "name": "j4ckdev-theme",
+    "displayName": "J4ckDev-Theme",
+    "description": "My personal Visual Studio Code Theme to keep my eyes fine.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "J4ckDev",
+                "label": "J4ckDev-Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/J4ckDev-color-theme.json"
+                "path": "./themes/j4ckdev-color-theme.json"
             }
         ]
     }
