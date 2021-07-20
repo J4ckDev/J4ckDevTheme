@@ -1,0 +1,21 @@
+{
+    "name": "j4ckdevtheme",
+    "displayName": "J4ckDevTheme",
+    "description": "Theme with the colors that I like to keep my eyes fine.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "J4ckDev",
+                "uiTheme": "vs-dark",
+                "path": "./themes/J4ckDev-color-theme.json"
+            }
+        ]
+    }
+}
