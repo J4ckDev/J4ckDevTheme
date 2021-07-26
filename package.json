@@ -2,7 +2,7 @@
     "name": "j4ckdev-theme",
     "displayName": "J4ckDev-Theme",
     "description": "My personal Visual Studio Code Theme to keep my eyes fine.",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.58.0"
     },
